@@ -1,4 +1,5 @@
 # [Rofla]
+DONGGUK CSC
 
 - 👋 Hi, I’m [@Roflaff] [kim seonpyo] [김선표]
 - 🌱 I’m currently learning [CS] [BACK-END] [Audio processing]
