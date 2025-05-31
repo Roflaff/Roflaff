@@ -8,8 +8,11 @@
 
 **Dept. of Computer Science and Engineering, Dongguk Univ., Seoul**
 
-- 👋 Hi, I’m [@Roflaff] [kim seonpyo] [김선표]
-- 🌱 I’m currently learning [CS] [BACK-END] [Audio processing]
-- 📫 How to reach me : [kimsp0317@gmail.com] [ksp317@naver.com]
+- Hi, I’m [@Roflaff] [kim seonpyo] [김선표]
+- I’m currently learning [CS] [BACK-END] [Audio processing]
 
-- STACK : [SPRING BOOT] [JAVA] [PYTHON]
+### How to reach me :
+[kimsp0317@gmail.com] [ksp317@naver.com]
+
+### STACK :
+[SPRING BOOT] [JAVA] [PYTHON]
