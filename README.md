@@ -8,6 +8,8 @@
 
 **Dept. of Computer Science and Engineering, Dongguk Univ., Seoul**
 
+---
+
 - Hi, I’m [@Roflaff] [kim seonpyo] [김선표]
 - I’m currently learning [CS] [BACK-END] [Audio processing]
 
