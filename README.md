@@ -1,20 +1,30 @@
 # [Rofla] 김선표
 
-[kimsp0317@gmail.com](mailto:kimsp0317@gmail.com)
-
-2024/12/18
-
-동국대학교 컴퓨터공학과
+[kim seonpyo] [김선표]
 
 **Dept. of Computer Science and Engineering, Dongguk Univ., Seoul**
+**동국대학교 컴퓨터공학과**
+
+### reach me
+
+[kimsp0317@gmail.com](mailto:kimsp0317@gmail.com)
+
+[ksp317@naver.com](mailto:ksp317@naver.com)
+
+[@Roflaff](https://www.instagram.com/rofla_ff/)
+
+
 
 ---
+<div align='center'>
 
-- Hi, I’m [@Roflaff] [kim seonpyo] [김선표]
-- I’m currently learning [CS] [BACK-END] [Audio processing]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Roflaff)](https://git.io/streak-stats)
 
-### How to reach me :
-[kimsp0317@gmail.com] [ksp317@naver.com]
+[kimsp0317@gmail.com]
 
-### STACK :
+### STACK
+
 [SPRING BOOT] [JAVA] [PYTHON]
+
+
+</div>
