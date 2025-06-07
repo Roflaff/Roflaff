@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=Rofla's%20Profile&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&section=header&text=Rofla's%20Profile&fontSize=45)
 
-[kim seonpyo] [김선표]
+[KIM SEONPYO] [김선표]
 
 **Dept. of Computer Science and Engineering, Dongguk Univ., Seoul**
 **동국대학교 컴퓨터공학과**
@@ -19,8 +19,6 @@
 <div align='center'>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Roflaff)](https://git.io/streak-stats)
-
-[kimsp0317@gmail.com]
 
 ### STACK
 
