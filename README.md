@@ -23,7 +23,8 @@
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roflaff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roflaff&layout=donut-vertical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roflaff&layout=donut-vertical)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Roflaff)
 
 ### 🛠️ TECH STACK
@@ -34,7 +35,7 @@
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
