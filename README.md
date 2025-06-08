@@ -2,12 +2,12 @@
 
 <div align='center'>
 
-**KIM SEONPYO 김선표**
+##### **KIM SEONPYO 김선표**
 
 **Dept. of Computer Science and Engineering, Dongguk Univ., Seoul**
 **동국대학교 컴퓨터공학과**
 
-### Reach Me
+#### Reach Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimsp0317@gmail.com) [![Nave](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:ksp317@naver.com) 
 
