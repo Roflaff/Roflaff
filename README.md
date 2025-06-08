@@ -5,6 +5,9 @@
 **Dept. of Computer Science and Engineering, Dongguk Univ., Seoul**
 **동국대학교 컴퓨터공학과**
 
+<!-- #### About Me
+배포 링크 적어두기 -->
+
 #### Reach Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimsp0317@gmail.com) [![Nave](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:ksp317@naver.com) 
