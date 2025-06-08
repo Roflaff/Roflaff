@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&section=header&text=Rofla's%20Profile&fontSize=45)
-
 <div align='center'>
 
 ##### **KIM SEONPYO 김선표**
@@ -52,3 +50,10 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
+
+---
+
+<div align='center'>
+
+### Contributions
+
