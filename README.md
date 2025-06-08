@@ -7,9 +7,9 @@
 **Dept. of Computer Science and Engineering, Dongguk Univ., Seoul**
 **동국대학교 컴퓨터공학과**
 
-### reach me
+### Reach Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimsp0317@gmail.com) [![Nave](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:ksp317@naver.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rofla_ff/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimsp0317@gmail.com) [![Nave](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:ksp317@naver.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rofla_ff/) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
 </div>
@@ -22,8 +22,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roflaff&layout=donut-vertical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Roflaff)
-
-### TECT
 
 ### 🛠️ TECH STACK
 
