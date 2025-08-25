@@ -26,8 +26,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Roflaff) ![GitHub User's stars](https://img.shields.io/github/stars/Roflaff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roflaff&layout=donut-vertical)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Roflaff)
 
 ![Rofla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roflaff&show_icons=true&theme=transparent)
