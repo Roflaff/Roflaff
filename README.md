@@ -5,19 +5,23 @@
 **Dept. of Computer Science and Engineering, Dongguk Univ., Seoul**
 **동국대학교 컴퓨터공학과**
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=rofla)](https://velog.io/@rofla/posts)
+
 <!-- #### About Me
 배포 링크 적어두기 -->
 
 #### Reach Me
 
+##### E-mail
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimsp0317@gmail.com) [![Nave](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:ksp317@naver.com) 
 
+##### SNS
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rofla_ff/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/512831343332294659) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sunpyu.kim/) [![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)](https://open.kakao.com/o/s90NrKAh) 
 
 <!-- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) -->
 
+##### ETC
 [![SoundCloud](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/d8fugmhwidri)
-
 
 </div>
 
