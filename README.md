@@ -5,14 +5,15 @@
 **Dept. of Computer Science and Engineering, Dongguk Univ., Seoul**
 **동국대학교 컴퓨터공학과**
 
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://roflaisathome.tistory.com/) 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=rofla)](https://velog.io/@rofla/posts) 
-
 <!-- #### About Me
 배포 링크 적어두기 -->
 
 #### Reach Me
+
+##### Blog
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://roflaisathome.tistory.com/) 
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=rofla)](https://velog.io/@rofla/posts) 
 
 ##### E-mail
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimsp0317@gmail.com) [![Nave](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:ksp317@naver.com) 
