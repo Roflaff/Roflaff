@@ -93,7 +93,7 @@
 
 <div align='center'>
 
-### Contributions
+### Papers
 
 ## **Enhancing Diffusion-Based Music Generation Performance with LoRA**.
 
