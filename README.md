@@ -95,7 +95,7 @@
 
 ### Contributions
 
-#### **Enhancing Diffusion-Based Music Generation Performance with LoRA**.
+## **Enhancing Diffusion-Based Music Generation Performance with LoRA**.
 
 Kim, Seonpyo, Geonhui Kim, Shoki Yagishita, Daewoon Han, Jeonghyeon Im, and Yunsick Sung. 2025. "Enhancing Diffusion-Based Music Generation Performance with LoRA" Applied Sciences 15, no. 15: 8646. https://doi.org/10.3390/app15158646
 
