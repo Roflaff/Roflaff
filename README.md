@@ -31,7 +31,7 @@
 ---
 <div align='center'>
 
-![GitHub followers](https://img.shields.io/github/followers/Roflaff) ![GitHub User's stars](https://img.shields.io/github/stars/Roflaff)
+![GitHub followers](https://img.shields.io/github/followers/Roflaff) ![GitHub User's stars](https://img.shields.io/github/stars/Roflaff) [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FRoflaff?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Roflaff)
 
